@@ -39,5 +39,5 @@ open sourced and published under my GitHub account
 E-mail: kristofer.berggren [at] gmail.com
 
 ## Links
-[Bookmark Links](/links).
+[Bookmark Links](/links)
 
