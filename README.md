@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/d99kris/d99kris.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Kristofer Berggren, a software developer based in
+[Singapore](http://en.wikipedia.org/wiki/Singapore). This is my 
+personal webpage, which is mostly focused around software topics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm currently working as a senior software engineer with
+[Blackmagic Design](https://www.blackmagicdesign.com/) in the
+[Digital Cinema](https://en.wikipedia.org/wiki/Digital_cinema) industry,
+developing the video post production software
+[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve).
 
-### Markdown
+Before that I worked in the 
+[AIDC](http://en.wikipedia.org/wiki/Automatic_identification_and_data_capture) 
+industry at [Honeywell](http://www.honeywell.com/), developing firmware and 
+software for 
+[thermal barcode printer](https://en.wikipedia.org/wiki/Thermal_printing) 
+products.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Prior to that I did software engineering contracting/consulting in the 
+automotive industry through [Semcon](http://www.semcon.com/), doing 
+concept/research development in areas like engine controls 
+([HCCI](http://en.wikipedia.org/wiki/Homogeneous_charge_compression_ignition)) 
+and active safety systems 
+([collision avoidance](https://en.wikipedia.org/wiki/Collision_avoidance_system)), 
+for clients such as [Volvo Cars](http://www.volvocars.com/) and 
+[Saab Automobile](http://www.saabcars.com/).
 
-```markdown
-Syntax highlighted code block
+Further details on my professional background can be found on my 
+[LinkedIn profile](https://www.linkedin.com/in/kristoferberggren) and my
+[Stackoverflow Careers profile](http://careers.stackoverflow.com/d99kris).
 
-# Header 1
-## Header 2
-### Header 3
+I do some programming in my spare time, and most of my personal projects are
+open sourced and published under my GitHub account
+[github.com/d99kris](https://github.com/d99kris).
 
-- Bulleted
-- List
+## Contact
 
-1. Numbered
-2. List
+E-mail: kristofer.berggren [at] gmail.com
 
-**Bold** and _Italic_ and `Code` text
+## Links
+[Bookmark Links](/links).
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/d99kris/d99kris.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
