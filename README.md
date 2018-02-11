@@ -1,8 +1,8 @@
 ## About
 
 I'm Kristofer Berggren, a software developer based in
-[Singapore](http://en.wikipedia.org/wiki/Singapore). This is my 
-personal webpage, which is mostly focused around software topics.
+[Singapore](http://en.wikipedia.org/wiki/Singapore), and this is my 
+personal webpage.
 
 I'm currently working as a senior software engineer with
 [Blackmagic Design](https://www.blackmagicdesign.com/) in the
@@ -31,13 +31,12 @@ Further details on my professional background can be found on my
 [Stackoverflow Careers profile](http://careers.stackoverflow.com/d99kris).
 
 I do some programming in my spare time, and most of my personal projects are
-open sourced and published under my GitHub account
-[github.com/d99kris](https://github.com/d99kris).
+open sourced and published under my [GitHub account](https://github.com/d99kris).
 
 ## Contact
 
 E-mail: kristofer.berggren [at] gmail.com
 
 ## Links
-[Bookmark Links](/links)
+[Bookmarks](/links)
 
