@@ -27,8 +27,7 @@ for clients such as [Volvo Cars](http://www.volvocars.com/) and
 [Saab Automobile](http://www.saabcars.com/).
 
 Further details on my professional background can be found on my 
-[LinkedIn profile](https://www.linkedin.com/in/kristoferberggren) and my
-[Stackoverflow Careers profile](http://careers.stackoverflow.com/d99kris).
+[LinkedIn profile](https://www.linkedin.com/in/kristoferberggren).
 
 I do some programming in my spare time, and most of my personal projects are
 open sourced and published under my [GitHub account](https://github.com/d99kris).
