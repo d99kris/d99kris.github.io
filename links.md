@@ -10,7 +10,9 @@
 * [Hacker News](http://news.ycombinator.com/news)
 * [Rackspace Webmail](https://apps.rackspace.com)
 * [Singapore Weather Radar](http://www.weather.gov.sg/weather-rain-area-50km/)
+* [Slack](https://www.slack.com/)
 * [Svenska Dagbladet](http://www.svd.se/)
 * [Swedbank](https://internetbank.swedbank.se/bviPrivat/privat?ns=1)
 * [Swedish Calendar](http://www.lysator.liu.se/alma/alma.cgi)
+* [WhatsApp](https://web.whatsapp.com/)
 
