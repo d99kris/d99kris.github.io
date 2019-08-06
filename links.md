@@ -14,5 +14,5 @@
 * [Svt News](https://www.svt.se/)
 * [Swedbank](https://internetbank.swedbank.se/bviPrivat/privat?ns=1)
 * [Swedish Calendar](https://www.lysator.liu.se/alma/alma.cgi)
+* [Telegram](https://web.telegram.org/)
 * [WhatsApp](https://web.whatsapp.com/)
-
