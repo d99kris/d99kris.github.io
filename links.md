@@ -15,5 +15,4 @@
 * [Swedbank](https://internetbank.swedbank.se/bviPrivat/privat?ns=1)
 * [Swedish Calendar](https://www.lysator.liu.se/alma/alma.cgi)
 * [Telegram](https://web.telegram.org/)
-* [Torben pa Heestrand](https://torbenpaheestrand.simplesite.com/)
 * [WhatsApp](https://web.whatsapp.com/)
