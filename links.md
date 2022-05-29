@@ -12,7 +12,7 @@
 * [Hacker News](https://news.ycombinator.com/news)
 * [Singapore Weather Radar](http://www.weather.gov.sg/weather-rain-area-50km/)
 * [Svt News](https://www.svt.se/)
-* [Swedbank](https://internetbank.swedbank.se/bviPrivat/privat?ns=1)
+* [Swedbank](https://online.swedbank.se/app/ib)
 * [Swedish Calendar](https://www.lysator.liu.se/alma/alma.cgi)
 * [Telegram](https://web.telegram.org/)
 * [WhatsApp](https://web.whatsapp.com/)
