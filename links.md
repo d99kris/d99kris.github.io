@@ -3,6 +3,7 @@
 * [Aftonbladet](https://www.aftonbladet.se/)
 * [BMD Slack](https://blackmagicdesign.slack.com/)
 * [BMD Webmail](https://owa.intermedia.net)
+* [Channel News Asia](https://www.channelnewsasia.com/)
 * [DBS iBanking](https://internet-banking.dbs.com.sg/)
 * [Expressen](https://www.expressen.se/)
 * [Facebook](https://www.facebook.com/)
@@ -14,5 +15,3 @@
 * [Svt News](https://www.svt.se/)
 * [Swedbank](https://online.swedbank.se/app/ib)
 * [Swedish Calendar](https://www.lysator.liu.se/alma/alma.cgi)
-* [Telegram](https://web.telegram.org/)
-* [WhatsApp](https://web.whatsapp.com/)
