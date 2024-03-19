@@ -1,8 +1,6 @@
 ## Links
 
 * [Aftonbladet](https://www.aftonbladet.se/)
-* [BMD Slack](https://blackmagicdesign.slack.com/)
-* [BMD Webmail](https://owa.intermedia.net)
 * [Channel News Asia](https://www.channelnewsasia.com/)
 * [DBS iBanking](https://internet-banking.dbs.com.sg/)
 * [Expressen](https://www.expressen.se/)
