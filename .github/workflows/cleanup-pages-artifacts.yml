@@ -1,0 +1,34 @@
+name: Cleanup Pages artifacts
+
+# Event-driven, not scheduled: fires whenever GitHub finishes building the
+# Pages site (i.e. as part of each publish). It deletes the stale, expired
+# `github-pages` build artifacts that the built-in pages-build-deployment
+# workflow leaves behind. The live site is served from the deployment, not
+# these artifacts, so removing expired ones is safe. The current build's
+# artifact is not yet expired and is kept.
+on:
+  page_build:
+
+permissions:
+  actions: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete expired github-pages artifacts
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const artifacts = await github.paginate(
+              github.rest.actions.listArtifactsForRepo,
+              { owner, repo, per_page: 100 }
+            );
+            const stale = artifacts.filter(a => a.name === 'github-pages' && a.expired);
+            core.info(`Found ${artifacts.length} artifact(s); ${stale.length} expired github-pages to delete.`);
+            for (const a of stale) {
+              await github.rest.actions.deleteArtifact({ owner, repo, artifact_id: a.id });
+              core.info(`Deleted ${a.id} (created ${a.created_at}, ${a.size_in_bytes} bytes).`);
+            }
+            core.info(`Done. Deleted ${stale.length} artifact(s).`);
